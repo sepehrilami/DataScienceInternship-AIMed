@@ -1,2 +1,2 @@
-# Data Analyzing Internship - AI Med
-# August 2020
+Data Analyzing Internship - AI Med
+August 2020
